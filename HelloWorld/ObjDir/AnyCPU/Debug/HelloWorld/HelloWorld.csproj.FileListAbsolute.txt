@@ -1,0 +1,13 @@
+D:\TeklaProgram\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\TeklaProgram\HelloWorld\bin\Debug\HelloWorld.exe
+D:\TeklaProgram\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.csproj.AssemblyReference.cache
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.Form1.resources
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.Properties.Resources.resources
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.csproj.GenerateResource.cache
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.csproj.CoreCompileInputs.cache
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.exe
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.pdb
+D:\TeklaProgram\HelloWorld\bin\Debug\Tekla.Structures.CustomPropertyPlugin.dll
+D:\TeklaProgram\HelloWorld\ObjDir\AnyCPU\Debug\HelloWorld\HelloWorld.csproj.CopyComplete

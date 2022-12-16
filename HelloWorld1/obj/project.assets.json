@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "TeklaOpenAPI/2021.0.1": {
+        "type": "package",
+        "build": {
+          "build/TeklaOpenAPI.props": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TeklaOpenAPI/2021.0.1": {
+      "sha512": "U5ntsgROvHgtGk1wX06WiEkXoUiyFL6EvuadWE3zsu5BKq1C5VmCg1qazlESCRTYY2CTKGebRw20+k9h0D2afg==",
+      "type": "package",
+      "path": "teklaopenapi/2021.0.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "TeklaStructuresExtension.ico",
+        "build/TeklaOpenAPI.props",
+        "eula.txt",
+        "lib/Akit5.dll",
+        "lib/Ionic.Zip.dll",
+        "lib/Mono.Cecil.dll",
+        "lib/Tekla.Application.Library.dll",
+        "lib/Tekla.Application.Library.pdb",
+        "lib/Tekla.Structures.Analysis.dll",
+        "lib/Tekla.Structures.Analysis.pdb",
+        "lib/Tekla.Structures.Catalogs.dll",
+        "lib/Tekla.Structures.Catalogs.pdb",
+        "lib/Tekla.Structures.Datatype.dll",
+        "lib/Tekla.Structures.Datatype.pdb",
+        "lib/Tekla.Structures.Dialog.dll",
+        "lib/Tekla.Structures.Dialog.pdb",
+        "lib/Tekla.Structures.Drawing.dll",
+        "lib/Tekla.Structures.Drawing.pdb",
+        "lib/Tekla.Structures.Model.dll",
+        "lib/Tekla.Structures.Model.pdb",
+        "lib/Tekla.Structures.Plugins.dll",
+        "lib/Tekla.Structures.Plugins.pdb",
+        "lib/Tekla.Structures.dll",
+        "lib/Tekla.Structures.pdb",
+        "lib/Tekla.Technology.MsgLib.dll",
+        "lib/Tekla.Technology.Scripting.Plugins.dll",
+        "lib/Tekla.Technology.Scripting.dll",
+        "lib/Tekla.Technology.Serialization.dll",
+        "logo.png",
+        "teklaopenapi.2021.0.1.nupkg.sha512",
+        "teklaopenapi.nuspec",
+        "tools/install.ps1"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "TeklaOpenAPI >= 2021.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Bhavita Patil\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\TeklaProgram\\HelloWorld1\\HelloWorld1.csproj",
+      "projectName": "HelloWorld1",
+      "projectPath": "D:\\TeklaProgram\\HelloWorld1\\HelloWorld1.csproj",
+      "packagesPath": "C:\\Users\\Bhavita Patil\\.nuget\\packages\\",
+      "outputPath": "D:\\TeklaProgram\\HelloWorld1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Bhavita Patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "TeklaOpenAPI": {
+            "target": "Package",
+            "version": "[2021.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

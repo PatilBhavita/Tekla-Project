@@ -1,0 +1,52 @@
+D:\TeklaProgram\AssemblyBeam\bin\Debug\AssemblyBeam.exe.config
+D:\TeklaProgram\AssemblyBeam\bin\Debug\AssemblyBeam.exe
+D:\TeklaProgram\AssemblyBeam\bin\Debug\AssemblyBeam.pdb
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Datatype.dll
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.dll
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Model.dll
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.xml
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Datatype.xml
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Model.xml
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.AssemblyReference.cache
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.SuggestedBindingRedirects.cache
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.Form1.resources
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.Properties.Resources.resources
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.GenerateResource.cache
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.CoreCompileInputs.cache
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.CopyComplete
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.exe
+D:\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.pdb
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Catalogs.dll
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Dialog.dll
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Drawing.dll
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Plugins.dll
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Catalogs.xml
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Dialog.xml
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Drawing.xml
+D:\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Plugins.xml
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.AssemblyReference.cache
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.Form1.resources
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.Properties.Resources.resources
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.GenerateResource.cache
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.CoreCompileInputs.cache
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.exe
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.pdb
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\AssemblyBeam.exe.config
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\AssemblyBeam.exe
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\AssemblyBeam.pdb
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Catalogs.dll
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Datatype.dll
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Dialog.dll
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.dll
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Drawing.dll
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Model.dll
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Plugins.dll
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.xml
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Catalogs.xml
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Datatype.xml
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Dialog.xml
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Drawing.xml
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Model.xml
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\bin\Debug\Tekla.Structures.Plugins.xml
+C:\Users\Bhavita Patil\Desktop\TeklaProgram\AssemblyBeam\obj\Debug\AssemblyBeam.csproj.CopyComplete
